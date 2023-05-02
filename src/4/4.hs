@@ -8,7 +8,6 @@
 import Text.Regex.Posix
 import Data.List (nubBy, maximumBy, group, sort)
 import Data.Ord (comparing)
-import System.Directory (getCurrentDirectory)
 
 data Actor = Actor {
   name :: String,
