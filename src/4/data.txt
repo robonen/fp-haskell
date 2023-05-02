@@ -1,0 +1,11 @@
+actor(ivanov,movie1)
+actor(ivanov,movie2)
+actor(ivanov,movie3)
+actor(petrov,movie4)
+actor(sidrov,movie1)
+
+movie(movie1,action,2000)
+movie(movie2,comedy,2005)
+movie(movie3,action,2010)
+movie(movie4,drama,2020)
+movie(movie5,action,2021)
